@@ -1,0 +1,56 @@
+/* タグ名での制御 */
+h1{
+    font-size:38px;            /* フォントサイズの設定  */
+}
+p{
+    line-height:1.5;           /* 行間の指定 */
+}
+body{                            /* 優先フォントの指定 */
+     font-family: Verdana,"メイリオ",Meiryo,"ＭＳ Ｐゴシック", "MS PGothic",sans-serif;
+     background-color: #EDEDE3;	//背景色
+     background-image: url("iceimg/menu.jpg");
+}
+header{
+     background-color: #FFFFFF;	/背景色
+}
+footer{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* IDでの制御 */
+	//個々の設定をできる
+#head_h1{
+    font-size:38px;
+    color: darkblue;
+    border: solid 1px #AAAAAA;
+    border-bottom : solid 5px  #0000FF;
+}
+#main{
+    background-color: #FFFFFF;
+    width: 600px;
+    margin-left: 10px;
+    border: solid 1px #AAAAAA;
+    padding: 10px;
+    box-shadow: 10px 10px 3px #AAAAAA;//影を設定できる
+    border-radius: 10px;//角が丸くなる
+}
+#head_img{
+  width: 45px;
+  vertical-align: -10px;
+  margin-right: 5px;
+}
+/* CLASSでの制御 */
+	//複数（例えば複数の表題）の設定をまとめて変更ができる
+.main_h1{	//余白を消せる
+    font-size:28px;
+    color: brown;
+    border:  solid  1px  #000000;
+    margin-top: 0;
+}
+.main_img{
+  width: 30%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border:  dotted  2px  pink;　//Borderで枠線を引ける
+}

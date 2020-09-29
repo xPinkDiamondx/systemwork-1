@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;a.jsp&apos; to &apos;a.jsp&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;0101-javastudy&apos;&#x0D;&#x0A;- 宛先要素: &apos;a.jsp&apos;&#x0D;&#x0A;- オリジナル要素: &apos;a.jsp&apos;" description="ファイルをコピー" element1="a.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1601003867917" target="/0101-javastudy/a.jsp" units="0" version="1.0"/>
+</session>

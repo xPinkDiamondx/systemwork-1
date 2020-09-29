@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+	<head>
+        <meta charset = "UTF-8">
+        <title>フォームの基礎（結果画面）</title>
+	</head>
+	<body>
+        <%
+        //日本語の文字化け対策
+        request.setCharacterEncoding("UTF-8");
+
+        //送信されたパラメータを受け取る(String型)
+        String x = request.getParameter("kakaku");
+        String y = request.getParameter("kazu");
+
+        //型変換　int <-- String
+        int kakaku = Integer.parseInt(x);
+        int kazu = Integer.parseInt(y);
+        %>
+        価格：<%= x %><br>
+        数量：<%= y %>
+        合計:<%= kakaku * kazu %>
+	</body>
+</html>
+

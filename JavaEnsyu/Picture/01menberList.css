@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+    #topphoto{
+        background-image: url("Picture/なみき.png");
+        background-size: 170px;
+        background-repeat: repeat;
+        height:75px;
+    }
+
+    h1{
+        margin: 0px;
+        padding:35px 10px 10px 10px;
+
+    }
+    hr{
+        margin: 0px auto; 
+    }
+
+    #top{
+        position: fixed;
+        left: 228px;
+        top :130px;
+        width   :auto;
+        height  :auto;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    #sublist{
+        position: fixed;
+        left: 25px;
+        top :130px;
+        width   :180px;
+        height  :600px;
+        background-color: yellow;
+        border-style: dotted;
+        padding: 10px 0px 0px 19px;
+    }
+
+    .sub{
+        margin :17px 17px 17px 17px;
+    }
+
+    li{
+        font-weight: bold;
+        list-style: circle;
+        width: 160px;
+    }
+
+    .coverphoto{
+        width  : 200px;
+        height : 200px;
+        alt    : 運営画像;
+    }
+
+    #test{
+        overflow-y:hidden;
+        overflow-y:scroll;
+        height: 100vh;
+    }

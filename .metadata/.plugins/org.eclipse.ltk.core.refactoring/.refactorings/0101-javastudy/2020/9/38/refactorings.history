@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース名 &apos;0101-javastudy/0103-tabletab&apos; を &apos;0103-tabletab.jsp&apos; に変更します" description="リソース &apos;0103-tabletab&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="0103-tabletab" name="0103-tabletab.jsp" stamp="1600131528393" updateReferences="true"/>&#x0A;<refactoring comment="リソース名 &apos;0101-javastudy/kadai001&apos; を &apos;kadai001.jsp&apos; に変更します" description="リソース &apos;kadai001&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="kadai001" name="kadai001.jsp" stamp="1600303444127" updateReferences="true"/>
+</session>

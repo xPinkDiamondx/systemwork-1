@@ -1,0 +1,11 @@
+@charset "utf-8";
+#top{
+    margin-top  :300px;
+    margin-left:300px;
+    color: black;
+}
+
+#sublist{
+    top : 300px;
+    left: 50px;
+}

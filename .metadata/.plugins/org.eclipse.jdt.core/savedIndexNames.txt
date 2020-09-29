@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jdt.core
+1171172578.index
+2788403923.index
+2602657569.index
+3683377251.index
+2950284601.index
+632319547.index
+2558580974.index
+592072072.index
+2477385266.index
+3772420564.index

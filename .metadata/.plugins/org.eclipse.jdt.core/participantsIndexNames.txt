@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3524367091.index
+\JavaEnsyu\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3201210041.index
+\Osiris\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1426950852.index
+\Osiris\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\414072909.index
+\Osiris\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2558580974.index
+\JavaEnsyu\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3175497631.index
+\Osiris\WEB-INF\src
+I:\JavaWeb2020\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2477385266.index
+\0101-javastudy\WEB-INF\src

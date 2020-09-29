@@ -1,0 +1,13 @@
+//              Double.parseDouble(文字列);
+//              String.value0f(数値);
+
+//              ボーナスの表示
+                String bonus = "";                
+                if(goukei >= 10000){
+                        bonus = "特別ボーナスの進呈";
+                }else if(goukei <2000){
+                        bonus = "送料が発生します";
+                }
+
+
+                                <% bonus %><br>
